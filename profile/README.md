@@ -35,29 +35,32 @@ Em vez de cada pessoa pagar R$ 40 para cada serviço de streaming, R$ 20 para se
 
 ### O que você terá acesso?
 
-#### **Araci** - Seu Cinema em Casa
+#### [**Araci**](https://github.com/taina-labs/araci) - Seu Cinema em Casa
 Como Netflix/Prime, mas você coloca os filmes e séries que quiser. Sem catálogo limitado, sem conteúdo que some do nada.
 
-#### **Arapa** - Sua Rádio Pessoal  
+#### [**Arapa**](https://github.com/taina-labs/arapa) - Sua Rádio Pessoal  
 Toda sua música, podcasts e audiolivros em um só lugar. Crie playlists, compartilhe com amigos, sem propaganda.
 
-#### **Ybira** - Seu Cofre Digital
+#### [**Ybira**](https://github.com/taina-labs/ybira) - Seu Cofre Digital
 Guarde arquivos, documentos, fotos com segurança. Como Google Drive, mas com espaço ilimitado (depende só do HD que vocês comprarem).
 
-#### **Guará** - Mensageiro Privado
+#### [**Guará**](https://github.com/taina-labs/guara) - Mensageiro Privado
 Conversas, grupos, chamadas de vídeo. Tipo WhatsApp, mas suas mensagens ficam no SEU servidor, não nos EUA.
 
-#### **Jaci** - Álbum de Memórias
+#### [**Jaci**](https://github.com/taina-labs/jaci) - Álbum de Memórias
 Suas fotos organizadas, com reconhecimento de rostos, backup automático do celular. Como Google Fotos, mas privado de verdade.
 
-#### **Ka'a** - Casa Inteligente
+#### [**Ka'a**](https://github.com/taina-labs/kaa) - Casa Inteligente
 Controle lâmpadas, câmeras, sensores. Sem depender de Alexa ou Google Home.
 
-#### **Karai** - Guardião Digital
+#### [**Karai**](https://github.com/taina-labs/karai) - Guardião Digital
 Protege tudo, faz backup automático, garante que nada se perca.
 
-#### **Nhaman** - Centro de Comando
+#### [**Nhaman**](https://github.com/taina-labs/nhaman) - Centro de Comando
 Um painel único para controlar todos os serviços. Simples e intuitivo.
+
+#### [**Tekoá**](https://github.com/taina-labs/tekoa) - Dcoumentação e Comunidade
+A fonte de luz e saber para a comunidade Tainá.
 
 ## Quem pode participar?
 
@@ -204,6 +207,7 @@ Escolhemos nomes da cultura brasileira para todos os serviços. Tainá, a estrel
 - **Ka'a** - Floresta, ambiente vivo e conectado
 - **Karai** - Espírito do fogo, força e proteção
 - **Nhaman** - Criador primordial (de Nhamandú - início de tudo na mitologia tupi-guarani)
+- **Tekoá** - “lugar onde se vive” ou “aldeia”
 
 ## Próximos Passos
 
