@@ -35,31 +35,31 @@ Em vez de cada pessoa pagar R$ 40 para cada serviço de streaming, R$ 20 para se
 
 ### O que você terá acesso?
 
-#### [**Araci**](https://github.com/taina-labs/araci) - Seu Cinema em Casa
+#### [**Araci**](https://github.com/taina-labs/taina/blob/main/lib/taina/araci/README.md) - Seu Cinema em Casa
 Como Netflix/Prime, mas você coloca os filmes e séries que quiser. Sem catálogo limitado, sem conteúdo que some do nada.
 
-#### [**Arapa**](https://github.com/taina-labs/arapa) - Sua Rádio Pessoal  
+#### [**Arapa**](https://github.com/taina-labs/taina/blob/main/lib/taina/arapa/README.md) - Sua Rádio Pessoal  
 Toda sua música, podcasts e audiolivros em um só lugar. Crie playlists, compartilhe com amigos, sem propaganda.
 
-#### [**Ybira**](https://github.com/taina-labs/ybira) - Seu Cofre Digital
+#### [**Ybira**](https://github.com/taina-labs/taina/blob/main/lib/taina/ybira/README.md) - Seu Cofre Digital
 Guarde arquivos, documentos, fotos com segurança. Como Google Drive, mas com espaço ilimitado (depende só do HD que vocês comprarem).
 
-#### [**Guará**](https://github.com/taina-labs/guara) - Mensageiro Privado
+#### [**Guará**](https://github.com/taina-labs/taina/blob/main/lib/taina/guara/README.md) - Mensageiro Privado
 Conversas, grupos, chamadas de vídeo. Tipo WhatsApp, mas suas mensagens ficam no SEU servidor, não nos EUA.
 
-#### [**Jaci**](https://github.com/taina-labs/jaci) - Álbum de Memórias
+#### [**Jaci**](https://github.com/taina-labs/taina/blob/main/lib/taina/jaci/README.md) - Álbum de Memórias
 Suas fotos organizadas, com reconhecimento de rostos, backup automático do celular. Como Google Fotos, mas privado de verdade.
 
-#### [**Ka'a**](https://github.com/taina-labs/kaa) - Casa Inteligente
+#### [**Ka'a**](https://github.com/taina-labs/taina/blob/main/lib/taina/kaa/README.md) - Casa Inteligente
 Controle lâmpadas, câmeras, sensores. Sem depender de Alexa ou Google Home.
 
-#### [**Karai**](https://github.com/taina-labs/karai) - Guardião Digital
+#### [**Karai**](https://github.com/taina-labs/taina/blob/main/lib/taina/karai/README.md) - Guardião Digital
 Protege tudo, faz backup automático, garante que nada se perca.
 
-#### [**Nhaman**](https://github.com/taina-labs/nhaman) - Centro de Comando
+#### [**Nhaman**](https://github.com/taina-labs/taina/blob/main/lib/taina/nhaman/README.md) - Centro de Comando
 Um painel único para controlar todos os serviços. Simples e intuitivo.
 
-#### [**Tekoá**](https://github.com/taina-labs/tekoa) - Dcoumentação e Comunidade
+#### [**Tekoá**](https://github.com/taina-labs/tekoa) - Documentação e Comunidade
 A fonte de luz e saber para a comunidade Tainá.
 
 ## Quem pode participar?
