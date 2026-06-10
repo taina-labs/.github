@@ -35,29 +35,35 @@ Em vez de cada pessoa pagar R$ 40 para cada serviço de streaming, R$ 20 para se
 
 ### O que você terá acesso?
 
-#### [**Araci**](https://github.com/taina-labs/taina/blob/main/lib/taina/araci/README.md) - Seu Cinema em Casa
-Como Netflix/Prime, mas você coloca os filmes e séries que quiser. Sem catálogo limitado, sem conteúdo que some do nada.
+> **Onde estamos agora (2026):** o MVP em desenvolvimento é o **cofre de
+> arquivos e fotos da comunidade, com instalação indolor** — Ybira + Jaci,
+> com contas e convites. Os demais serviços são a visão de longo prazo.
+> Detalhes na [RFC 002](https://github.com/taina-labs/tekoa/blob/main/tecnico/RFC_002_MVP.md)
+> e no [Roadmap](https://github.com/taina-labs/tekoa/blob/main/ROADMAP.md).
 
-#### [**Arapa**](https://github.com/taina-labs/taina/blob/main/lib/taina/arapa/README.md) - Sua Rádio Pessoal  
-Toda sua música, podcasts e audiolivros em um só lugar. Crie playlists, compartilhe com amigos, sem propaganda.
-
-#### [**Ybira**](https://github.com/taina-labs/taina/blob/main/lib/taina/ybira/README.md) - Seu Cofre Digital
+#### [**Ybira**](https://github.com/taina-labs/taina/blob/main/lib/taina/ybira/README.md) - Seu Cofre Digital — **MVP**
 Guarde arquivos, documentos, fotos com segurança. Como Google Drive, mas com espaço ilimitado (depende só do HD que vocês comprarem).
 
-#### [**Guará**](https://github.com/taina-labs/taina/blob/main/lib/taina/guara/README.md) - Mensageiro Privado
-Conversas, grupos, chamadas de vídeo. Tipo WhatsApp, mas suas mensagens ficam no SEU servidor, não nos EUA.
+#### [**Jaci**](https://github.com/taina-labs/taina/blob/main/lib/taina/jaci/README.md) - Álbum de Memórias — **MVP**
+Suas fotos organizadas em grade e linha do tempo. Como Google Fotos, mas privado de verdade. Backup automático do celular e reconhecimento de rostos vêm depois do MVP.
 
-#### [**Jaci**](https://github.com/taina-labs/taina/blob/main/lib/taina/jaci/README.md) - Álbum de Memórias
-Suas fotos organizadas, com reconhecimento de rostos, backup automático do celular. Como Google Fotos, mas privado de verdade.
+#### [**Nhaman**](https://github.com/taina-labs/taina/blob/main/lib/taina/nhaman/README.md) - Centro de Comando — **parcial no MVP**
+Um painel único para controlar todos os serviços. No MVP: setup inicial, gestão de pessoas, backup e atualização.
 
-#### [**Ka'a**](https://github.com/taina-labs/taina/blob/main/lib/taina/kaa/README.md) - Casa Inteligente
+#### [**Guará**](https://github.com/taina-labs/taina/blob/main/lib/taina/guara/README.md) - Mensageiro Privado — pós-MVP
+Conversas e grupos. Tipo WhatsApp, mas suas mensagens ficam no SEU servidor, não nos EUA.
+
+#### [**Araci**](https://github.com/taina-labs/taina/blob/main/lib/taina/araci/README.md) - Seu Cinema em Casa — visão de longo prazo
+Como Netflix/Prime, mas você coloca os filmes e séries que quiser. Sem catálogo limitado, sem conteúdo que some do nada.
+
+#### [**Arapa**](https://github.com/taina-labs/taina/blob/main/lib/taina/arapa/README.md) - Sua Rádio Pessoal — visão de longo prazo
+Toda sua música, podcasts e audiolivros em um só lugar. Crie playlists, compartilhe com amigos, sem propaganda.
+
+#### [**Ka'a**](https://github.com/taina-labs/taina/blob/main/lib/taina/kaa/README.md) - Casa Inteligente — visão de longo prazo
 Controle lâmpadas, câmeras, sensores. Sem depender de Alexa ou Google Home.
 
-#### [**Karai**](https://github.com/taina-labs/taina/blob/main/lib/taina/karai/README.md) - Guardião Digital
+#### [**Karai**](https://github.com/taina-labs/taina/blob/main/lib/taina/karai/README.md) - Guardião Digital — visão de longo prazo
 Protege tudo, faz backup automático, garante que nada se perca.
-
-#### [**Nhaman**](https://github.com/taina-labs/taina/blob/main/lib/taina/nhaman/README.md) - Centro de Comando
-Um painel único para controlar todos os serviços. Simples e intuitivo.
 
 #### [**Tekoá**](https://github.com/taina-labs/tekoa) - Documentação e Comunidade
 A fonte de luz e saber para a comunidade Tainá.
@@ -213,8 +219,10 @@ Escolhemos nomes da cultura brasileira para todos os serviços. Tainá, a estrel
 
 ### Estamos construindo agora:
 
-**Website** - em construção
-**Documentação** - Tutoriais em português
+**MVP** - cofre de arquivos e fotos com instalação plug & play
+([RFC 002](https://github.com/taina-labs/tekoa/blob/main/tecnico/RFC_002_MVP.md) ·
+[Roadmap](https://github.com/taina-labs/tekoa/blob/main/ROADMAP.md))
+**Documentação** - Tutoriais em português no [Tekoá](https://github.com/taina-labs/tekoa)
 **Implementação dos Serviços** - Código aberto, **sempre**
 
 ### Como você pode ajudar:
