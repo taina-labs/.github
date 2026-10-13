@@ -68,6 +68,16 @@ Protege tudo, faz backup automático, garante que nada se perca.
 #### [**Tekoá**](https://github.com/taina-labs/tekoa) - Documentação e Comunidade
 A fonte de luz e saber para a comunidade Tainá.
 
+### Ypy: o núcleo que sustenta tudo
+
+Cada comunidade roda a sua própria caixa do Tainá. O box, a plataforma
+hospedada e os produtos futuros (como a Universidade) compartilham o mesmo
+núcleo, chamado **Ypy** (Tupi: origem): identidade, arquivos, o modelo social
+(casa/praça, zelador/morador), o mural e a assembleia vivem numa biblioteca
+aberta de que cada produto depende. É o que faz um produto novo nascer já
+falando a mesma língua, sem reimplementar o núcleo.
+Ver a [RFC 006](https://github.com/taina-labs/tekoa/blob/main/tecnico/RFC_006_KERNEL.md).
+
 ## Quem pode participar?
 
 ### Você NÃO precisa ser técnico!
